@@ -1,7 +1,3 @@
----
-permalink: /kali-linux-on-windows
----
-
 # How to install Kali Linux on Windows
 So most people know what Kali Linux is.
 Its a command console thingy for Linux computers and is great for hacking.
